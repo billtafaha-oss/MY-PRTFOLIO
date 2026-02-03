@@ -30,7 +30,7 @@ CSS3
 Usage
 
 This project can be used as a template or learning example for front-end development.
-Open the index.html file in a web browser to view the page.
+Open the html file in a web browser to view the page.
 
 
 Purpose
